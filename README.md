@@ -8,7 +8,7 @@ Gamer during the day and developer during the nights.
 - 💬 Ask me about React / Node.js / Deno.js / JavaScript 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-codes&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-codes&show_icons=true&include_all_commits=true)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-codes&layout=compact)
 
