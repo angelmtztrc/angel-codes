@@ -6,8 +6,8 @@ Gamer during the day and developer during the nights.
 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Deno.js / Tailwind CSS / TypeScript 
-- 💬 Ask me about React / Node.js / Deno.js / JavaScript 
+- 🌱 I’m currently learning TypeScript / Dart / Flutter
+- 💬 Ask me about ReactJS / NodeJS / Deno / JavaScript 
 
 
 ### Github Stats
