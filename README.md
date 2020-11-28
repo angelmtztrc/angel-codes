@@ -4,7 +4,7 @@ Gamer during the day and developer during the nights.
 
 ---
 
-<img align="right" width="400px" src="src/images/main.svg" alt="main-image">
+<img align="right" width="400px" src="src/images/main.svg" alt="main-image"/>
 
 ![Profile views](https://gpvc.arturio.dev/angelmtztrc) [![Repos Badge](https://badges.pufler.dev/repos/angelmtztrc)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/angelmtztrc)](https://badges.pufler.dev)
 
