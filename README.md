@@ -22,4 +22,4 @@ Gamer during the day and developer during the nights.
 
 ### Github Stats
 
-![All Stats](https://github-readme-stats.vercel.app/api?username=angelmtztrc&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelmtztrc&layout=compact)
+![All Stats](https://github-readme-stats.vercel.app/api?username=angelmtztrc&show_icons=true&include_all_commits=true&count_private=true&hide=contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelmtztrc&layout=compact)
