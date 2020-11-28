@@ -1,4 +1,4 @@
-![Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️](./src/images/typping.gif)
+![My intro gif](./src/images/typping.gif)
 
 ---
 
