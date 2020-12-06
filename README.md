@@ -1,4 +1,9 @@
-![My intro gif](./src/images/typping.gif)
+<!-- 
+
+Removed for now, it is very heavy
+![My intro gif](./src/images/typping.gif) 
+
+-->
 
 ---
 
