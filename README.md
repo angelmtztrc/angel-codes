@@ -1,5 +1,5 @@
 ![My intro gif](./src/images/typping.gif)
-
+<!-- If you want to make your own gif, use this codesandbox and record it https://codesandbox.io/s/github-gif-readme-2ljgz -->
 ---
 
 ![Profile views](https://gpvc.arturio.dev/angelmtztrc) [![Repos Badge](https://badges.pufler.dev/repos/angelmtztrc)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/angelmtztrc)](https://badges.pufler.dev)
